@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\rpg-db.props" />
+</Project>
